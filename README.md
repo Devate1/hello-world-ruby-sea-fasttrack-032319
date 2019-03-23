@@ -1,4 +1,4 @@
-# Hello World
+learn# Hello World
 
 ## Overview
 
@@ -40,7 +40,7 @@ Note: be sure to save your file before trying to print, otherwise it will not wo
 You should see:
 
 ```bash
-$ ruby hello_world.rb
+$ ruby hello_world.
 Hello World!
 ```
 
